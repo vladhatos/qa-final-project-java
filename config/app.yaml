@@ -2,7 +2,7 @@ env: "development"
 
 service:
   name: "jsonplaceholder-api"
-  baseUrl: "https://jsonplaceholder.typicode.com/todos/1"
+  baseUrl: "https://apps.qualiadept.eu/hapifyme"
 
 timeouts:
   connectMs: 1000
