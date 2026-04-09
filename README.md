@@ -1,4 +1,5 @@
-Badge:
+Badge: 
+
 [![CI Pipeline for QA Project](https://github.com/vladhatos/qa-final-project-java/actions/workflows/ci.yml/badge.svg)](https://github.com/vladhatos/qa-final-project-java/actions/workflows/ci.yml)
 
 
